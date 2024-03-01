@@ -109,7 +109,7 @@ as an example, if you only want the body text box content, use:
 
 ### License
 
-Copyright (c) 2016-2021. Stuart Watt.
+Copyright (c) 2016-2021. Stuart Watt.\
 Copyright (c) 2024 (Very minor changes). Oliverity.
 
 Licensed under the MIT License.
