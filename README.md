@@ -24,10 +24,8 @@ used both with files and with file contents in a Node.js Buffer.
 ### How do I install this module?
 
 ```bash=
-yarn add word-extractor
-
-# Or using npm... 
-npm install word-extractor
+# Using npm... 
+npm install https://github.com/Oliverity/word-extractor-utf8
 ```
 
 ### How do I use this module?
